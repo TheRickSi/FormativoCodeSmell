@@ -1,3 +1,3 @@
 # FormativoCodeSmell
-Aplicación de Técnicas de Refactory
+# Aplicación de Técnicas de Refactory
 Integrantes : Pratt Garcia
